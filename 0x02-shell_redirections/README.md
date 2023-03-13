@@ -54,4 +54,5 @@ This script lists all the files with a .gif extension in the current directory a
 This script decodes acrostics that use the first letter of each line.
 ###### 103-the_biggest_fan
 parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests.
-###### 102-acrostic
+
+This display the content of the /etc/passwd file.
