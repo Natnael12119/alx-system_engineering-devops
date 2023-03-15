@@ -36,5 +36,4 @@ changes the owner and the group owner of _hello to vincent and staff respectivel
 This script changes the owner of the file hello to betty only if it is owned by the user guillaume.
 ###### 103-Star_Wars
 This script will play the StarWars IV episode in the terminal.
-This script adds execute permission to the owner of the file hello.
-This script adds execute permission to the owner of the file hello.
+This script sets the permission to the file hello.
