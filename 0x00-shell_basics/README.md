@@ -5,7 +5,7 @@ The topic Shell basics is covered in this project.
 This script prints the absolute path name of the current working directory.
 ###### 1-listit
 This script contents list of your current directory.
-###### 2-hellofile2-bring_me_home
+###### 2-bring_me_home
 This script changes the working directory to the user’s home directory.
 ###### 3-listfiles
 This script display current directory contents in a long format
@@ -39,4 +39,3 @@ This script create a script that deletes all files in the current working direct
 This script create a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
 ###### 103-commas
 This script lists all the files and directories of the current directory, separated by commas (,).
-###### 102-tree
