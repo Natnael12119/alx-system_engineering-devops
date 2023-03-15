@@ -1,5 +1,5 @@
 
-# 0x02. Shell, I/O Redirections and filters0x03. Shell, init files, variables and expansions
+# 0x03.Shell, init files, variables and expansions
 The topic of Shell, I/O Redirections and filters0x03. Shell, init files, variables and expansions is covered in this project.
 ###### 0-hello_world0-alias
 This script creates an alias for "ls" called "rm". When you run "rm" i the terminal, it will run "ls".
