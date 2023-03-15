@@ -4,4 +4,5 @@ The code and documentation for the ALX System Engineering and DevOps program can
 This repository is organized into multiple directories, each covering a specific topic related to system engineering and DevOps. The directories are:
 - 0x00-shell_basics
 * 0x01-shell_permissions 
-+ 0x02-shell_redirections ............
++ 0x02-shell_redirections
+- 0x03-shell_variables_expansions
