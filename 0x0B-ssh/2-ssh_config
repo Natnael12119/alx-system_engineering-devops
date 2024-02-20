@@ -1,0 +1,8 @@
+# connect to a server without typing a password
+Host *
+      IdentityFile ~/.ssh/school
+      SendEnv LANG LC_*
+      HashKnownHosts yes
+      GSSAPIAuthentication yes
+      GSSAPIDelegateCredential no
+      PasswordAuthentication no
